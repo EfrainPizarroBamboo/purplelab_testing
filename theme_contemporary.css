@@ -50,7 +50,7 @@
 .reportTable {
   font-family: Open Sans, Helvetica, Arial, Noto Sans SC, Noto Sans TC,
     sans-serif;
-  border: 1px solid #cccccc;
+/*   border: 1px solid #cccccc; */
   border-collapse: collapse;
   border-spacing: 3px;
 }
@@ -108,9 +108,9 @@ table.reportTable td {
 }
 
 .subtotal {
-  font-style: italic;
+/*   font-style: italic; */
   font-weight: bold;
-  background: #d3d3d3;
+  background: #d8d9d6;
 }
 
 .total {
