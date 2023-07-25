@@ -105,9 +105,9 @@ table.reportTable td {
 }
 
 .subtotal {
-/*   font-style: italic; */
   font-weight: bold;
-  background: #d8d9d6;
+  background: #735679;
+  color: white;
 }
 
 .total {
