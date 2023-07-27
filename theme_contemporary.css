@@ -118,8 +118,10 @@ table.reportTable td {
 }
 
 .total {
-  border-top: 2px solid #000000 !important;
+  border-top: 2px solid #D8D9D6 !important;
   font-weight: bold !important;
+  background: #9E9B9B;
+  color: white;
 }
 
 .total.transposed {
