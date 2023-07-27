@@ -76,10 +76,11 @@ table.reportTable td {
   padding: 5px;
   background-color: #a1a1a1;
   color: white;
+  text-align: left !important;
 }
 
 .indexCell.transposed {
-  font-weight: bold;
+/*   font-weight: bold; */
 }
 
 .indexCell.transposed.merged {
@@ -92,11 +93,11 @@ table.reportTable td {
 }
 
 .nonNumeric {
-  text-align: center;
+  text-align: left;
 }
 
 .numeric {
-  text-align: center;
+  text-align: left;
 }
 
 .negative {
